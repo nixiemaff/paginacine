@@ -1,0 +1,28 @@
+body{
+    background-color: mediumpurple;
+}
+nav{
+    background-color: rgb(183, 124, 212);
+}
+#cole{
+    background-color: aliceblue;
+}
+.texto{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.lista{
+    color: aliceblue;
+}
+.texto1{
+    text-align: center;
+}
+#barra{
+    display: flex;
+}
+.boton{
+    background-color: rgb(229, 166, 198);
+    padding: 4px;
+    margin: 4px;
+    font-size: large;
+}
