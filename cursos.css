@@ -1,0 +1,22 @@
+
+/* Estilos para el contenedor de los botones */
+.botones-container {
+    text-align: center; /* Centrar horizontalmente los botones */
+    margin-top: 20px; /* Margen superior para los botones */
+}
+
+/* Estilos para los botones */
+.boton {
+    display: inline-block; /* Hacer que los botones sean elementos en línea */
+    font-size: 18px; /* Tamaño de fuente de los botones */
+    margin: 10px; /* Margen entre los botones */
+    border-radius: 10%; /* Redondear las puntas de los botones */
+    background-color: rgb(221, 128, 68); /* Color de fondo naranja */
+    color: white; /* Color del texto en los botones */
+    border: none; /* Eliminar el borde */
+    padding: 10px 20px; /* Espaciado interno para los botones */
+    cursor: pointer; /* Cambiar el cursor al pasar el ratón */
+}
+#textoo {
+    text-align: center; /* Centrar horizontalmente el texto */
+}

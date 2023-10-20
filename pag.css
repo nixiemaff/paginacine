@@ -1,0 +1,55 @@
+
+/* Estilos para el título */
+.titulo {
+text-align: center; /* Centrar horizontalmente el texto */
+font-size: 24px; /* Tamaño de fuente */
+margin-top: 30px; /* Espaciado superior para el texto */
+    }
+
+/* Estilos para el imagen */
+.imagen {
+display: block; /* Asegurar que la imagen sea un elemento en bloque */
+width: 100px; /* Ancho de la imagen */
+height: 100px; /* Altura de la imagen */
+ margin: 0 auto; /* Centrar la imagen horizontalmente */
+    }
+
+/* Estilos para el texto "I.P.E.T 363" */
+.nombre-escuela {
+text-align: center; /* Centrar horizontalmente el texto */
+font-size: 20px; /* Tamaño de fuente para el nombre de la escuela */
+}
+
+/* Estilos para el contenedor de los botones */
+.botones-container {
+text-align: center; /* Centrar horizontalmente los botones */
+}
+
+/* Estilos para el botón "Iniciar" */
+.boton-iniciar {
+display: block; /* Hacer que el botón sea un elemento en bloque */
+text-align: center; /* Centrar el botón horizontalmente */
+font-size: 18px; /* Tamaño de fuente del botón */
+margin: 10px auto; /* Centrar el botón horizontalmente y agregar margen superior e inferior */
+background-color: rgb(241, 106, 106); /* Color de fondo rojo */
+color: white; /* Color del texto en el botón */
+border: none; /* Eliminar el borde */
+padding: 10px 20px; /* Espaciado interno para el botón */
+cursor: pointer; /* Cambiar el cursor al pasar el ratón */
+border-radius: 10%; /* Redondear las puntas de los botones */
+    }
+.boton {
+display: inline-block; /* Hacer que el botón sea un elemento en línea para que estén uno al lado del otro */
+text-align: center; /* Centrar el botón horizontalmente */
+font-size: 18px; /* Tamaño de fuente del botón */
+margin: 10px; /* Espacio entre los botones */
+border-radius: 10%; /* Redondear las puntas de los botones */
+background-color: rgb(221, 128, 68); /* Color de fondo naranja */
+color: white; /* Color del texto en el botón */
+border: none; /* Eliminar el borde */
+padding: 10px 20px; /* Espaciado interno para el botón */
+cursor: pointer; /* Cambiar el cursor al pasar el ratón */
+    }
+#pie {
+    text-align: center; /* Centrar horizontalmente los botones */
+}

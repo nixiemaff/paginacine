@@ -1,0 +1,9 @@
+
+.titulo {
+text-align: center; /* Centrar horizontalmente el texto */
+font-size: 24px; /* Tamaño de fuente */
+margin-top: 30px; /* Espaciado superior para el texto */
+    }
+#info{
+    text-align: center; /* Centrar horizontalmente el texto */
+}
